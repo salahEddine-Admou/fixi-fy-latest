@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2e82de0.css",
+    "main.js": "/static/js/main.3b260e00.js",
+    "static/js/453.06713db5.chunk.js": "/static/js/453.06713db5.chunk.js",
+    "static/media/features.gif": "/static/media/features.487ab5ce62cef72b67c4.gif",
+    "static/media/banner.jpg": "/static/media/banner.b049fc1c94570908a231.jpg",
+    "static/media/logo.jpg": "/static/media/logo.8b317c734fb260b203b7.jpg",
+    "static/media/smartphone.svg": "/static/media/smartphone.f170942e04444118f0c4254244d6a0b8.svg",
+    "static/media/repair.svg": "/static/media/repair.6409386e8c53971bbb16119c09424625.svg",
+    "static/media/laptop-svgrepo-com.svg": "/static/media/laptop-svgrepo-com.bc7f99106a481115d6adccadef0b1b2b.svg",
+    "static/media/client.svg": "/static/media/client.9e707bdd0b27fa34fbed543379db1817.svg",
+    "static/media/delivery.svg": "/static/media/delivery.2e51b8f61b16abafd43cac3e23fbe6da.svg",
+    "index.html": "/index.html",
+    "main.a2e82de0.css.map": "/static/css/main.a2e82de0.css.map",
+    "main.3b260e00.js.map": "/static/js/main.3b260e00.js.map",
+    "453.06713db5.chunk.js.map": "/static/js/453.06713db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e82de0.css",
+    "static/js/main.3b260e00.js"
+  ]
+}
